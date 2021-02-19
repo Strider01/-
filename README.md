@@ -4,7 +4,7 @@
 项目是闲余时间所做，目前数据量较少。主要是人工整理，部分为使用机器阅读程序提取。
 # 下载
 目前只支持安卓手机,iOS没有做 <br>
-扫描下方二维码在手机上浏览本页，点击[下载](http://ys-k.ys168.com/617764315/615161769/TtiLwfi45372K865TOJWeb/app-release.apk)即可安装体验<br>
+扫描下方二维码在手机上浏览本页，点击[下载](http://ys-k.ys168.com/617764315/615161769/TtiUjFi72286L455WLIXeb/app-release.apk)即可安装体验。备用[下载](http://82.156.119.108/app-release.apk)<br>
 <img src="https://github.com/Strider01/-/blob/main/thispage.png?raw=true" alt="图片替换文本" width="200" height="200" align="bottom" /> <br>
 # 安装风险问题
 安装时可能会提示应用有漏洞，有风险什么的，无需惊慌，依然安装就行。我不会黑你们的手机，主要是我也没那技术啊！！！😂<br>
